@@ -1,0 +1,15 @@
+C:\Users\Paulo Silva\Documents\Estudos\dotnet\DevSuperior\DevSuperior\bin\Debug\net6.0\DevSuperior.exe
+C:\Users\Paulo Silva\Documents\Estudos\dotnet\DevSuperior\DevSuperior\bin\Debug\net6.0\DevSuperior.deps.json
+C:\Users\Paulo Silva\Documents\Estudos\dotnet\DevSuperior\DevSuperior\bin\Debug\net6.0\DevSuperior.runtimeconfig.json
+C:\Users\Paulo Silva\Documents\Estudos\dotnet\DevSuperior\DevSuperior\bin\Debug\net6.0\DevSuperior.dll
+C:\Users\Paulo Silva\Documents\Estudos\dotnet\DevSuperior\DevSuperior\bin\Debug\net6.0\DevSuperior.pdb
+C:\Users\Paulo Silva\Documents\Estudos\dotnet\DevSuperior\DevSuperior\obj\Debug\net6.0\DevSuperior.csproj.AssemblyReference.cache
+C:\Users\Paulo Silva\Documents\Estudos\dotnet\DevSuperior\DevSuperior\obj\Debug\net6.0\DevSuperior.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo Silva\Documents\Estudos\dotnet\DevSuperior\DevSuperior\obj\Debug\net6.0\DevSuperior.AssemblyInfoInputs.cache
+C:\Users\Paulo Silva\Documents\Estudos\dotnet\DevSuperior\DevSuperior\obj\Debug\net6.0\DevSuperior.AssemblyInfo.cs
+C:\Users\Paulo Silva\Documents\Estudos\dotnet\DevSuperior\DevSuperior\obj\Debug\net6.0\DevSuperior.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Silva\Documents\Estudos\dotnet\DevSuperior\DevSuperior\obj\Debug\net6.0\DevSuperior.dll
+C:\Users\Paulo Silva\Documents\Estudos\dotnet\DevSuperior\DevSuperior\obj\Debug\net6.0\refint\DevSuperior.dll
+C:\Users\Paulo Silva\Documents\Estudos\dotnet\DevSuperior\DevSuperior\obj\Debug\net6.0\DevSuperior.pdb
+C:\Users\Paulo Silva\Documents\Estudos\dotnet\DevSuperior\DevSuperior\obj\Debug\net6.0\DevSuperior.genruntimeconfig.cache
+C:\Users\Paulo Silva\Documents\Estudos\dotnet\DevSuperior\DevSuperior\obj\Debug\net6.0\ref\DevSuperior.dll
