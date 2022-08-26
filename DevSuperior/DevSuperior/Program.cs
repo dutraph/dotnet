@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Globalization;
+
 namespace Program {
     class Program {
         static void Main(string[] args) {
@@ -30,6 +32,26 @@ namespace Program {
             Console.WriteLine(nome);
             Console.WriteLine(nome2);
             Console.WriteLine(int.MaxValue);
+
+            Console.WriteLine("------------------------------");
+
+            char gn = 'M';
+            int age = 32;
+            double balance = 10.32443245;
+            string name = "Paulo";
+
+            Console.WriteLine(gn);
+            Console.WriteLine(age);
+            Console.WriteLine(balance.ToString("F2"));
+            Console.WriteLine(balance.ToString("F5", CultureInfo.InvariantCulture));
+            Console.WriteLine(name);
+
+            Console.WriteLine("{0} is {1} years old, and have AU${2:F2}.", name, age, balance); // Placeholders
+
+            Console.WriteLine($"{name} is {age} years old, and have AU${balance:F2}."); // Interpolation
+
+            Console.WriteLine(name + " is " + age + " years old, and have AU$" + balance.ToString("F2")+ "."); // Concatenation
+
         }
     }
 }
